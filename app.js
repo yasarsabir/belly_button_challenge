@@ -111,6 +111,7 @@ function charts(sample_id){
       
       var bubblelayout = {
         title: 'Belly Button Bubble chart',
+        xaxis: { title : 'OTU ID'},
         showlegend: false,
       };
       
