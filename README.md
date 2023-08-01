@@ -14,4 +14,6 @@ This menu links to 4 objects - a horizontal bar chart, a bubble chart, the indiv
 
 4. The gauge displays the number of times the participant washes per week, although the task specific a needle based gauge I couldn't get this to work so I just used this code instead from the documentation https://plotly.com/javascript/gauge-charts/
 
-Finally the app (dashboard) was deployed to the free static page hosting service GitHub Pages.
+Finally the app (dashboard) was deployed to the free static page hosting service GitHub Pages. The link to my deployment is here https://yasarsabir.github.io/belly_button_challenge/
+
+I used plotly documentation, stack overflow and 1-2-1 tutorials from bootcamp to help create this code. 
